@@ -7,7 +7,7 @@ English Premier League (EPL) Results: 1993-94 to 2021-22 from Kaggle
 
 (Usability Score: 10.00, License: (CC0: Public Domain))
 
-# Data Analysis Process:
+# Data Analysis Steps followed:
 
 1. Data Preprocessing: Cleaning and formatting the dataset for analysis.
 2. Season Analysis: Examining match results, goals scored, and match statistics for each season.
@@ -71,3 +71,21 @@ English Premier League (EPL) Results: 1993-94 to 2021-22 from Kaggle
 ![Season_Dash_merged_page-0005](https://github.com/Ronit11246/Analytics_Project1/assets/108767208/fe1760d2-d8f3-47af-ad41-a65147487acc)
 ![Season_Dash_merged_page-0004](https://github.com/Ronit11246/Analytics_Project1/assets/108767208/be8384c2-eef4-4ba1-8a73-5ff5e67669c3)
 ![Season_Dash_merged_page-0006](https://github.com/Ronit11246/Analytics_Project1/assets/108767208/8684e452-4b7a-47df-be9f-91d6433c0a33)
+
+**FOULS AND CARD STATS**
+
+1. Most Cards per Foul: QPR (0.16885)
+2. Most number of cards: Chelsea (57 Red, 1094 Yellow)
+3. Most number of fould: Everton (4299 H, 4067 A)
+4. Team with most (Cards vs Foul) per match: Coventry (Cards/Game: 2.10, Cards/Foul: 0.15)
+
+![Cards_Dash_page-0001](https://github.com/Ronit11246/Analytics_Project1/assets/108767208/403ba3e4-6f7a-4e0a-8fe0-226e99796177)
+
+**REFEREE STATS**
+
+1. Ref with most cards ever: D.R.Elleray (1452)
+2. Ref with most no. of participations: Mike Dean (422)
+3. Ref with most fouls given: D.R.Elleray (10366)
+4. Ref with most fouls and cards per game: B.Knight (26.01,3.636)
+
+![Ref_Dash_page-0001](https://github.com/Ronit11246/Analytics_Project1/assets/108767208/d73d1b53-7501-49f7-ab29-e8d4e7665d9d)
