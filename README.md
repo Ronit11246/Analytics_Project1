@@ -89,3 +89,10 @@ English Premier League (EPL) Results: 1993-94 to 2021-22 from Kaggle
 4. Ref with most fouls and cards per game: B.Knight (26.01,3.636)
 
 ![Ref_Dash_page-0001](https://github.com/Ronit11246/Analytics_Project1/assets/108767208/d73d1b53-7501-49f7-ab29-e8d4e7665d9d)
+
+**GEOGRAPHICAL STATS**
+1. Region with most wins: London
+2. Region with most losses: West Midlands
+
+![Reg_Dash_page-0001](https://github.com/Ronit11246/Analytics_Project1/assets/108767208/32c2b47b-de0f-46e3-8200-482e5fa33413)
+
